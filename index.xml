@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bake&#39; In, Baked by Karin</title>
-    <link>https://bakedbykarin.github.io/</link>
+    <link>https://bakedbykarin.com/</link>
     <description>Recent content on Bake&#39; In, Baked by Karin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
     
-	<atom:link href="https://bakedbykarin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bakedbykarin.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tiramisu</title>
-      <link>https://bakedbykarin.github.io/post/tiramisu/</link>
+      <link>https://bakedbykarin.com/post/tiramisu/</link>
       <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
       
-      <guid>https://bakedbykarin.github.io/post/tiramisu/</guid>
+      <guid>https://bakedbykarin.com/post/tiramisu/</guid>
       <description>Tiramisu is a coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar and mascarpone cheese, flavoured with cocoa.</description>
     </item>
     
     <item>
       <title>Fudgy Brownies</title>
-      <link>https://bakedbykarin.github.io/post/fudgy-brownies/</link>
+      <link>https://bakedbykarin.com/post/fudgy-brownies/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>https://bakedbykarin.github.io/post/fudgy-brownies/</guid>
+      <guid>https://bakedbykarin.com/post/fudgy-brownies/</guid>
       <description>A chocolate brownie or simply a brownie is a square or rectangular chocolate baked confection.</description>
     </item>
     
     <item>
       <title>Tres Leches</title>
-      <link>https://bakedbykarin.github.io/post/tres-leches/</link>
+      <link>https://bakedbykarin.com/post/tres-leches/</link>
       <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>https://bakedbykarin.github.io/post/tres-leches/</guid>
+      <guid>https://bakedbykarin.com/post/tres-leches/</guid>
       <description>A tres leches cake is a sponge cake in some recipes, a butter cake soaked in three kinds of milk which are evaporated milk, condensed milk, and heavy cream.</description>
     </item>
     
